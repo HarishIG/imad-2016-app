@@ -1,6 +1,6 @@
 {
   "name": "Harry",
   "tagline": "Welcome to my profile ",
-  "body": " # Welcome to my Profile\r\n                     \r\n![cabin]( <div class=\"centerhttps://github.com/HarishIG/imad-2016-app/blob/master/ui/cabin.png)",
+  "body": " # Welcome to my Profile\r\n                     \r\n![](https://github.com/HarishIG/imad-2016-app/blob/gh-pages/images/profile.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
