@@ -1,6 +1,6 @@
 {
   "name": "Harry",
   "tagline": "Welcome to my profile ",
-  "body": "**# Welcome to my Profile** \r\n\r\n[l](<div class=\"LI-profile-badge\"  data-version=\"v1\" data-size=\"medium\" data-locale=\"en_US\" data-type=\"vertical\" data-theme=\"dark\" data-vanity=\"harishig\"><a class=\"LI-simple-link\" href='https://in.linkedin.com/in/harishig?trk=profile-badge'>Harish Igno</a></div>)",
+  "body": "**# Welcome to my Profile** \r\n<script type=\"text/javascript\" src=\"https://platform.linkedin.com/badges/js/profile.js\" async defer></script>\r\n<div class=\"LI-profile-badge\"  data-version=\"v1\" data-size=\"medium\" data-locale=\"en_US\" data-type=\"vertical\" data-theme=\"dark\" data-vanity=\"harishig\"><a class=\"LI-simple-link\" href='https://in.linkedin.com/in/harishig?trk=profile-badge'>Harish Igno</a></div>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
